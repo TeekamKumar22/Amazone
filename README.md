@@ -1,3 +1,4 @@
 Basic practice set (2024) <br>
 from apna college  and
-some my own optimizations 
+some my own optimizations <br>
+Like image sliders & responsiveness 
